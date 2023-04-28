@@ -92,7 +92,7 @@ div.campo > input{
     border-radius: 8px;
     padding: 4px;
     border: 0px;
-    transform: translateY(-11px);/*sempre colocar animação e transformação no final*/
+    transform: translateY(-13px);/*sempre colocar animação e transformação no final*/
 }
 
 div.campo > input:hover{

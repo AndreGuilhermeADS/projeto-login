@@ -25,6 +25,10 @@
         float: right;
         width: 60%;
     }
+
+    div.campo > input{
+        transform: translateY(-10px);
+    }
 }
 
 @media screen and (min-width:992px) {
@@ -56,5 +60,9 @@
         font-size: 1em;
         text-align: justify;
         margin: 15px 0px;
+    }
+
+    div.campo > input{
+        transform: translateY(-10px);
     }
 }
